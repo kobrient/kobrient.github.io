@@ -14,6 +14,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kobrient.com" # the base hostname & protocol for your site
 twitter_username: kobrient
 github_username:  kobrient
+steam_username:   kobrient
+reddit_username:  kobrient
 
 # Build settings
 markdown: kramdown
