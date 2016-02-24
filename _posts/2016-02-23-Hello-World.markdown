@@ -6,6 +6,6 @@ categories: blog
 ---
 This is a test blog post. More content to come.
 
-Check out the [Minecraft Server][mc] if you're in to the kind of stuff.
+Check out the [Minecraft Server][mc] if you're in to that kind of stuff.
 
 [mc]: http://mc.kobrien.info
