@@ -10,5 +10,3 @@ These are just a few of the projects that I've bothered to document and do a wri
 * Home Server \(Complete\)
 * Derpcraft \(Ongoing\)
 
-* * *
-
