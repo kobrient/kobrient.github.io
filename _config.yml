@@ -9,7 +9,7 @@
 title: Kyle O'Brien
 email: kobrient@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal Webpage -- kobrient.com
+  Copyright © 2016 Kyle O'Brien
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kobrient.com" # the base hostname & protocol for your site
 twitter_username: kobrient
