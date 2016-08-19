@@ -1,0 +1,52 @@
+Host a LAN party. Yes, I'm serious.
+
+My LAN party driver (The LANborghini)
+ - Build log
+ - The vinyl
+ - Increasing viability of small builds
+
+Running Arch linux on a flash drive was a bad idea
+ - Filesystem corruption
+ - Install pains
+
+A note on system bottlenecks
+ - Storage
+ - Where is it going?
+
+A note on GPU overclocking
+ - Very disappointing gains at 1440p and 4k
+
+A note on monitor choice for gaming
+ - Hz spoil yourself
+ - HW doesn't matter unless it has has a method to express itself
+ - Its doesn't just looks smooth... (It decreases input lag)
+ 
+
+Neural Network acceleration
+
+Hardware Crypto acceleration
+
+Dreamhack blog
+
+Exploring Skylake performance
+
+Hello Googlefiber
+
+A note about account security
+ - 2FA
+ - Roll your own pw database?
+
+Confessions of a MC server admin
+ - Backups
+ - Uptime
+ - Event hosting
+ - Community
+ - To mod or not to mod
+
+Script city bitch
+ - weather.sh
+ - Minecraft server bkp
+
+
+They say I'm good with computers....
+TECH | GAMES | MUSIC
